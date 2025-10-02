@@ -1,5 +1,5 @@
 # Spotify Dashboard
-Power BI Dashboard analyzing Spotify's most streamed songs and artists, modeled after Spootify's UI
+Power BI Dashboard analyzing Spotify's most streamed songs and artists, modeled after Spootify's UI.
 The dashboard is designed to highlight music trend over time, artist dominance, and track popularity through interactive visuals.
 
 ## Why I Made This
