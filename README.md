@@ -32,3 +32,5 @@ This project was a hands-on learning experience, helping me improve both technic
 
 
 ---
+<img width="1370" height="771" alt="Home Page" src="https://github.com/user-attachments/assets/3d2b3af4-bd4e-41ba-9838-391cf76a65b1" />
+
